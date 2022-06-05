@@ -1,0 +1,16 @@
+{
+  "PREFIX": "?",
+  "TOKEN": "OTA5MTIyNDA0NDI3NjQ5MDM0.YY_sNw.0C0V6R4bq9q7yMVBsP6wYxCKOV0",
+  "OWNER_ID": "852674430143430677",
+  "ownerid": "852674430143430677",
+  "CLIENT_ID": "909122404427649034",
+  "GUILD_ID": "933426542606958682",
+  "NODES": [
+    {
+      "host" : "lavalink.oops.wtf",
+      "port" : 2000,
+      "password" : "www.freelavalink.ga",
+      "secure" : false
+    }
+  ]
+}
